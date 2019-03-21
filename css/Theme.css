@@ -2,6 +2,7 @@ h1	{
 	color: gold;
 	background-color: purple;
 	font-size: 500;
+	style= <h1 style="border: 2px solid Tomato;">Hello World</h1>
 }
 
 th {
@@ -9,6 +10,12 @@ th {
 	background-color: blue;
 	font-size: 200;
 }
+
+body {
+	background-color: hsl(0, 100%, 98.5%);
+
+}
+
 
 
 
