@@ -5,6 +5,9 @@ h1	{
 	border: 2px solid;
 }
 
+title {
+	font-family: 'Muli', sans-serif;
+}
 header {
 	background-image: url(pic1.jpg);
 	height: 100vh;
